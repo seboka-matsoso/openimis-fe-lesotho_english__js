@@ -4,6 +4,24 @@
 name: Node.js Package
 
 on:
+  push:
+    types: [published]
+
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: olegtarasov/get-tag@v2.1
+          id: tagName
+        - uses: actions/checkout@v2
+        - uses: actions/setup-node@v1
+          with:
+            node-version: 18
+        - name: update the version with TAG
+        - run: yarn install
+        - run: yarn build
+
+on:
   release:
     types: [created]
 
