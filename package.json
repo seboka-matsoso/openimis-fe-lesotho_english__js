@@ -1,5 +1,5 @@
 {
-  "name": "openimis-fe-lanauge_en-tz_js",
+  "name": "@openimis/fe-language_en-tz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
