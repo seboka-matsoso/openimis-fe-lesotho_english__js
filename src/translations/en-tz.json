@@ -2106,7 +2106,7 @@
   "insuree.Insuree.dead": "",
   "insuree.Insuree.dod": "",
   "insuree.Insuree.deathreason": "",
-  "claim.processedDateFrom": "Processed From",
-  "claim.processedDateTo": "Processed To",
+  "claim.ClaimFilter.processedDateFrom": "Processed From",
+  "claim.ClaimFilter.processedDateTo": "Processed To",
   "claim.claimSummaries.processedDate": "Processed On"
 }
