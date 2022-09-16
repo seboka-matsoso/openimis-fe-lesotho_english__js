@@ -84,7 +84,7 @@
   "claim.claimStatus.8": "Processed",
   "claim.claimStatus.16": "Valuated",
   "claim.ClaimFilter.claimNo": "Claim No.",
-  "claim.ClaimFilter.insureeCHFID": "Insuree No.",
+  "claim.ClaimFilter.insureeCHFID": "CHFID",
   "claim.visitDateFrom": "Visit Date From",
   "claim.visitDateTo": "Visit Date To",
   "claim.claimedDate": "Date Claimed",
@@ -2105,5 +2105,8 @@
   "claim.codechfId": "",
   "insuree.Insuree.dead": "",
   "insuree.Insuree.dod": "",
-  "insuree.Insuree.deathreason": ""
+  "insuree.Insuree.deathreason": "",
+  "claim.processedDateFrom": "Processed From",
+  "claim.processedDateTo": "Processed To",
+  "claim.claimSummaries.processedDate": "Processed On"
 }
