@@ -2174,5 +2174,16 @@
   "medical.codeTaken": "",
   "product.alreadyTaken": "",
   "admin.user.emailAlreadyTaken": "",
-  "home.welcome": "Karibu"
+  "home.welcome": "Karibu",
+  "profile.menu.myProfile": "",
+  "profile.MyProfilePage.title": "",
+  "profile.roles": "",
+  "profile.regions": "",
+  "profile.districts": "",
+  "profile.userName": "",
+  "profile.otherNames": "",
+  "profile.lastName": "",
+  "profile.email": "",
+  "profile.phone": "",
+  "profile.language": ""
 }

@@ -2169,5 +2169,16 @@
   "showReconciledOnly": "Show reconciled only",
   "claim.edit.items.pricevaluated": "Valuated",
   "claim.edit.services.pricevaluated": "Valuated",
-  "home.welcome": "Welcome"
+  "home.welcome": "Welcome",
+  "profile.menu.myProfile": "My Profile",
+  "profile.MyProfilePage.title": "My Profile",
+  "profile.roles": "Assigned Roles",
+  "profile.regions": "Assigned Regions",
+  "profile.districts": "Assigned Districts",
+  "profile.userName": "Username",
+  "profile.otherNames": "Other Names",
+  "profile.lastName": "Last Name",
+  "profile.email": "Email",
+  "profile.phone": "Phone Number",
+  "profile.language": "Interface Language"
 }
