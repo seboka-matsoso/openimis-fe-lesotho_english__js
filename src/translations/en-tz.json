@@ -2180,5 +2180,10 @@
   "profile.lastName": "Last Name",
   "profile.email": "Email",
   "profile.phone": "Phone Number",
-  "profile.language": "Interface Language"
+  "profile.language": "Interface Language",
+  "HFBankAccountInfo.bank_account": "Bank Account",
+  "HFBankAccountInfo.bank_namet": "Bank Name",
+  "HFBankAccountInfo.account_name": "Account Name",
+  "HFBankAccountInfo.bic": "BIC",
+  "HFBankAccountInfo.header": "Bank Account Details"
 }

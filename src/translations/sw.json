@@ -2185,5 +2185,10 @@
   "profile.lastName": "",
   "profile.email": "",
   "profile.phone": "",
-  "profile.language": ""
+  "profile.language": "",
+  "HFBankAccountInfo.bank_account": "Akaunti ya Benki",
+  "HFBankAccountInfo.bank_namet": "Jina la Benki",
+  "HFBankAccountInfo.account_name": "Jina la Akaunti",
+  "HFBankAccountInfo.bic": "BIC",
+  "HFBankAccountInfo.header": "Taarifa za Benki"
 }
