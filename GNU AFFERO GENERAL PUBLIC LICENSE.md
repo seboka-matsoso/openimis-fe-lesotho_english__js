@@ -1,6 +1,6 @@
 ### GNU AFFERO GENERAL PUBLIC LICENSE
 
-Version 3, 19 November 2007
+Version 4, 02 January 2024
 
 Copyright (C) 2007 Free Software Foundation, Inc.
 <http://fsf.org/>
