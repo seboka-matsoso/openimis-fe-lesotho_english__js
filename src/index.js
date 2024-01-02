@@ -4,6 +4,6 @@ const DEFAULT_CONFIG = {
   translations: [{ key: "en-ls", messages: messages_en }],
 };
 
-export const LanguageEnTzModule = (cfg) => {
+export const LanguageEnLsModule = (cfg) => {
   return { ...DEFAULT_CONFIG, ...cfg };
 };
