@@ -1,6 +1,6 @@
 {
-  "name": "@openimis/fe-language_en-tz",
-  "version": "1.3.0",
+  "name": "@openimis/fe-language_en-ls",
+  "version": "1.0.0",
   "license": "AGPL-3.0-only",
   "description": "openIMIS Tanzania English translations of reference modules",
   "repository": "openimis/openimis-fe-language_en-tz_js",
