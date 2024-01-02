@@ -1,7 +1,7 @@
-import messages_en from "./translations/en-tz.json";
+import messages_en from "./translations/en-ls.json";
 
 const DEFAULT_CONFIG = {
-  translations: [{ key: "en-tz", messages: messages_en }],
+  translations: [{ key: "en-ls", messages: messages_en }],
 };
 
 export const LanguageEnTzModule = (cfg) => {
