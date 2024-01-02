@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "AGPL-3.0-only",
   "description": "openIMIS Tanzania English translations of reference modules",
-  "repository": "openimis/openimis-fe-language_en-tz_js",
+  "repository": "openimis/openimis-fe-lesotho_english__js",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {
